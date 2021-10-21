@@ -1,0 +1,17 @@
+{
+    "total_number_of_lines_processed": 12,
+    "total_number_of_lines_ok": 10,
+    "total_number_of_lines_failed": 2,
+    "top_client_ips": {
+       "2.6.161.218": 6,
+       "147.242.46.143": 3,
+       "43.94.177.188": 1
+    },
+    "top_path_avg_seconds": {
+       "\";drop table users; select\"": 2.20,
+       "/home": 2.00,
+       "/products": 1.95,
+       "/product/cart": 1.50,
+       "/-/admin": 0.43
+    }
+}

@@ -1,0 +1,12 @@
+147.242.46.143 - - [18/Oct/2021:04:23:43 +0000] "PATCH %5C%22%3Bdrop%20table%20users%3B%20select%5C%22 HTTP/1.1" 200 2196 "Opera/9.63 (X11; Linux i686; U; en)"
+
+147.242.46.143 - - [18/Oct/2021:04:23:43 +0000] "HEAD /homephpinfo.php HTTP/1.1" 201 201 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-US) AppleWebKit/530.6 (KHTML, like Gecko) Chrome/ Safari/530.6"
+2.6.161.218 - - [18/Oct/2021:04:23:43 +0000] "POST /home HTTP/1.1" 500 1000 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.68 Safari/534.30"
+2.6.161.218 - - [18/Oct/2021:04:23:43 +0000] "POST /home HTTP/1.1" 500 2000 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.68 Safari/534.30"
+2.6.161.218 - - [18/Oct/2021:04:23:43 +0000] "POST /home HTTP/1.1" 500 3000 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.68 Safari/534.30"
+2.6.161.218 - crazy-shirley-curran [18/Oct/2021:04:23:44 +0000] "POST /products HTTP/1.1" 500 1953 "Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.460.0 Safari/534.3"
+2.6.161.218 - - [18/Oct/2021:04:23:44 +0000] "HEAD /phpinfo.php HTTP/1.1" 429 31 "Opera/9.12 (Windows NT 5.0; U; ru)"
+2.6.161.218 - root [18/Oct/2021:04:23:44 +0000] "POST /product/cart HTTP/1.1" 202 1496 "Opera/8.51 (X11; Linux i686; U; en)"
+147.242.46.143 - - [18/Oct/2021:04:23:44 +0000] "POST /admin.php HTTP/1.1" 202 289 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7xs5D9rRDFpg2g"
+
+43.94.177.188 - - [18/Oct/2021:04:23:44 +0000] "POST /-/admin HTTP/1.1" 201 430 "Opera/9.10 (Windows NT 5.1; U; es-es)"

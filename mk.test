@@ -1,0 +1,2 @@
+python log-parser.py --in test/in_file --out test/out_file $*
+echo $?
